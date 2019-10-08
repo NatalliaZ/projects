@@ -3,5 +3,5 @@ def get_summ (one, two, delimiter = '&'):
 
     print (result)
 
-get_summ ('Learn', 'python', delimiter = '&')
+
 
